@@ -1,0 +1,16 @@
+F:\Учеба\Visual code C#\Patterns\patterns\Adapter\Adapter\Adapter\obj\Debug\net5.0\Adapter.csproj.AssemblyReference.cache
+F:\Учеба\Visual code C#\Patterns\patterns\Adapter\Adapter\Adapter\obj\Debug\net5.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\Visual code C#\Patterns\patterns\Adapter\Adapter\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfoInputs.cache
+F:\Учеба\Visual code C#\Patterns\patterns\Adapter\Adapter\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfo.cs
+F:\Учеба\Visual code C#\Patterns\patterns\Adapter\Adapter\Adapter\obj\Debug\net5.0\Adapter.csproj.CoreCompileInputs.cache
+F:\Учеба\Visual code C#\Patterns\patterns\Adapter\Adapter\Adapter\bin\Debug\net5.0\Adapter.exe
+F:\Учеба\Visual code C#\Patterns\patterns\Adapter\Adapter\Adapter\bin\Debug\net5.0\Adapter.deps.json
+F:\Учеба\Visual code C#\Patterns\patterns\Adapter\Adapter\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.json
+F:\Учеба\Visual code C#\Patterns\patterns\Adapter\Adapter\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.dev.json
+F:\Учеба\Visual code C#\Patterns\patterns\Adapter\Adapter\Adapter\bin\Debug\net5.0\Adapter.dll
+F:\Учеба\Visual code C#\Patterns\patterns\Adapter\Adapter\Adapter\bin\Debug\net5.0\ref\Adapter.dll
+F:\Учеба\Visual code C#\Patterns\patterns\Adapter\Adapter\Adapter\bin\Debug\net5.0\Adapter.pdb
+F:\Учеба\Visual code C#\Patterns\patterns\Adapter\Adapter\Adapter\obj\Debug\net5.0\Adapter.dll
+F:\Учеба\Visual code C#\Patterns\patterns\Adapter\Adapter\Adapter\obj\Debug\net5.0\ref\Adapter.dll
+F:\Учеба\Visual code C#\Patterns\patterns\Adapter\Adapter\Adapter\obj\Debug\net5.0\Adapter.pdb
+F:\Учеба\Visual code C#\Patterns\patterns\Adapter\Adapter\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache
